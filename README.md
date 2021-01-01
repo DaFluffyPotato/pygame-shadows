@@ -72,3 +72,9 @@ This is the function for adding walls to the terrain based on a tile map (border
 
 ### box([x_pos : int, y_pos: int], [size_x : int, size_y : int]) -> walls_generated
 This is a function for generating a list of `Wall` objects in the shape of a box with all walls facing outwards. The `x_pos` and `y_pos` are the top left of the box. This list of walls can be added to a `LightBox` using `LightBox.add_walls()`.
+
+# Credits
+
+Original Lighting Module - DaFluffyPotato
+
+Code Cleanup and PEP-ification - [@Snayff](https://github.com/Snayff)
