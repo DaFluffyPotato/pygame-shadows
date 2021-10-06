@@ -1,6 +1,8 @@
 # pygame-shadows
 a simple shadow library for Pygame
 
+![](https://media.discordapp.net/attachments/758065135423062027/772293910440443924/gif_12.gif)
+
 # Lighting Documentation
 This is the documentation for this Pygame lighting module. Please note that this module requires Pygame 2. Some functions and attributes have been omitted as they are primary used internally. Please see the example script for the example usage. Many of these functions will not be needed in the average use case.
 
